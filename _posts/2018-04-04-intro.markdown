@@ -7,8 +7,8 @@ categories: womenInTech
 To, że nie jestem java deweloperką nie oznacza, że nie mam pojęcia o programowaniu.
 Owszem mam. Wystarczająco, by poruszać się w świecie IT.
 
-![sunSet](/assets/motivation/tree.png){:class="img-responsive"}
-
 Mam w głowie mnóstwo pomysłów i pomyślałam, że fajnie jest je gdzieś spisać.
 Chcę pisać o różnych motywacjach: motywacji do ćwiczeń, nauki, myślenia... tak, myślenia właśnie!
 Do dzieła!
+
+![sunSet](/assets/motivation/tree.png){:class="img-responsive"}
