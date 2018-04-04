@@ -6,3 +6,4 @@ categories: womenInTech
 ---
 To, że pracuję w firmie IT nie znaczy jeszcze, że mam techniczne wykształcenie. To, że nie jestem java deweloperką nie oznacza, że nie mam pojęcia o programowaniu.
 
+![sunSet](/assets/motivation/tree.png){:class="img-responsive"}
