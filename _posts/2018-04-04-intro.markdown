@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Women in Technology"
+date:   2017-04-04 19:40:51 +0000
+categories: womenInTech
+---
+To, że pracuję w firmie IT nie znaczy jeszcze, że mam techniczne wykształcenie. To, że nie jestem java deweloperką nie oznacza, że nie mam pojęcia o programowaniu.
+
+[justyna]
+
+[justyna]: Buziaczki!
